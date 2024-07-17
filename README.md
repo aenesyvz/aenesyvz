@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alper</h1>
-
+- 🎓 Graduated from Ondokuz Mayıs University in 2024.
 - 🌱 I’m currently learning **ElastichSearch,RabbitMQ**
 
 - 💬 Ask me about **.Net**
 
 - 📫 How to reach me **enes.yavuz@bil.omu.edu.tr**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
