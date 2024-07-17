@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🎓 I completed my Bachelor's degree in Computer Engineering at Ondokuz Mayıs University in 2024.
   
-- 🌱 I’m currently learning **ElastichSearch,RabbitMQ**
+- 🌱 I’m currently learning **ElastichSearch, RabbitMQ**
 
-- 💬 Ask me about **.Net,React,Angular**
+- 💬 Ask me about **.Net, React, Angular**
 
 - 📫 How to reach me **enes.yavuz@bil.omu.edu.tr**
 
