@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alper</h1>
 
-- 🎓 Graduated from Ondokuz Mayıs University in 2024.
+- 🎓 I completed my Bachelor's degree in Computer Engineering at Ondokuz Mayıs University in 2024.
   
 - 🌱 I’m currently learning **ElastichSearch,RabbitMQ**
 
